@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Aman Sharma 👋 <br><br>I am a Java-Focused Software Engineer building Scalable, AI-Powered Web Apps. 💼 Actively Seeking: SDE Internships (Summer 2026) & Entry-Level Roles.<br>🔭 I’m currently working on project:<br>Sakshatkaram – An AI-driven platform for automated mock interviews and skill assessment.<br>🌱 I’m currently learning:<br>Salesforce Development and Advanced System Design patterns.<br>⚡ Fun fact:<br>My Mindset: Strong fundamentals, quick to learn, and always ready to take ownership. 🚀<br>
+## Hi, I'm Aman Sharma 👋 <br><br>I am Aspiring full stack developer building Scalable, AI-Powered Web Apps. 💼 Actively Seeking: SDE Internships (Summer 2026) & Entry-Level Roles.<br>🔭 I’m currently working on project:<br>Sakshatkaram – An AI-driven platform for automated mock interviews and skill assessment.<br>🌱 I’m currently learning:<br>Salesforce Development and Advanced System Design patterns.<br>⚡ Fun fact:<br>My Mindset: Strong fundamentals, quick to learn, and always ready to take ownership. 🚀<br>
 
 
 ## 🌐 Socials:
