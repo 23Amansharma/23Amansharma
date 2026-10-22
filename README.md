@@ -1,5 +1,13 @@
 # 💫 About Me:
-## Hi, I'm Aman Sharma 👋 <br><br>I am Aspiring full stack developer building Scalable, AI-Powered Web Apps.<br>💼 Actively Seeking: SDE Internships (Summer 2026) & Entry-Level Roles.<br>🔭 I’m currently working on project:<br>Sakshatkaram – An AI-driven platform for automated mock interviews and skill assessment.<br>🌱 I’m currently learning:<br>Salesforce Development and Advanced System Design patterns.<br>⚡ Fun fact:<br>My Mindset: Strong fundamentals, quick to learn, and always ready to take ownership. 🚀<br>
+
+## Hi, I'm Aman Sharma 👋 
+
+I am a **CS Graduate '26** and an aspiring Software Engineer who loves building backend systems with **Java**. 🚀
+
+💼 **Actively Looking For:** SDE roles, Java developer internships and full-time opportunities.  
+🎯 **Current Status:** Currently preparing for GATE, brushing up core CS fundamentals and keeping my mind active by exploring and tinkering with things I've already learned.  
+🔭 **Projects:** Built **Sakshatkaram** (an AI mock interview platform, evolved as an advanced version of Intivolution) and a Task Management app. *Note: Active development on projects is a bit slow right now, but ideas never stop!*  
+⚡ **Mindset:** Strong fundamentals, quick learner, and always ready to take ownership.
 
 
 ## 🌐 Socials:
