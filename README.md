@@ -2,7 +2,7 @@
 
 ## Hi, I'm Aman Sharma 👋 
 
-I am a **CS Graduate '26** and an aspiring Software Engineer who loves building backend systems with **Java**. 🚀
+I am a **CS Graduate '26** and an  Software Engineer who loves building backend systems with **Java**. 🚀
 
 💼 **Actively Looking For:** SDE roles, Java developer internships and full-time opportunities.  
 🎯 **Current Status:** Currently preparing for GATE, brushing up core CS fundamentals and keeping my mind active by exploring and tinkering with things I've already learned.  
